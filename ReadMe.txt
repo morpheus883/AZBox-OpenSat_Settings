@@ -9,15 +9,15 @@ Morpheus883's Site: http://morpheus883.altervista.org/
 GitHub Repository: https://github.com/morpheus883/
 and available on the main Sat Sites
 
-AZBox Settings 26th March 2020, © by Morpheus883
+AZBox Settings 12th April 2020, © by Morpheus883
 
 Settings for Images based on Opensat FW's:
 
 Statistics:
 # Clarke Belt covered: 47.5°W - 76.5°E
-# Satellites: 81 (Ku Band TP + DTV Freq. Lists)
+# Satellites: 89 (Ku Band TP + DTV Freq. Lists)
 # Ordered Provider Lists: 46
-# Services: 12.798
+# Services: 12.620
 
 [30.0 W] Meo
 [30.0 W] Nos
